@@ -20,8 +20,8 @@
 
 ## 目录
 
-- **前言 + 第 1-11 章 + 附录 A-F**：见 [`guide/`](guide/) 目录。
-- **研究底稿（10 份带 `文件:行号` 的源码报告）**：见 [`research/`](research/) 目录。
+- **前言 + 第 1-11 章 + 附录 A-F**：见 [guide/ 目录](https://github.com/SincoMao/new-api-book/tree/main/guide)（或站内左侧侧边栏）。
+- **研究底稿（10 份带 `文件:行号` 的源码报告）**：见 [research/ 目录](https://github.com/SincoMao/new-api-book/tree/main/research)。
 - **写作规范**：[`guide/写作规范.md`](guide/写作规范.md)。
 
 ## 本地预览
