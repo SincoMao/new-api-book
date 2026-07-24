@@ -40,5 +40,5 @@ features:
   - icon: 🗂️
     title: 研究底稿可追溯
     details: 10 份带 file:line 的源码研究报告归档，每条无损声明可追溯到代码证据。
-    link: /research/00-说明书大纲-初稿
+    link: https://github.com/SincoMao/new-api-book/tree/main/research
 ---
