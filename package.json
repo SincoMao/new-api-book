@@ -1,0 +1,16 @@
+{
+  "name": "new-api-book",
+  "version": "1.0.0",
+  "description": "new-api 通透说明书（基于 new-api commit 1721144221，2026-07-21）",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
