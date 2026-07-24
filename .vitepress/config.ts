@@ -38,6 +38,7 @@ export default defineConfig({
         { text: '第9章 · 日志·统计·监控', link: '/guide/09-日志-统计-监控' },
         { text: '第10章 · 安全', link: '/guide/10-安全' },
         { text: '第11章 · 客户端透明无损对接实战', link: '/guide/11-客户端透明无损对接实战' },
+        { text: '第12章 · 企业级实战（分组×模型×渠道×客户端）', link: '/guide/12-企业级实战-分组模型渠道客户端四维治理' },
         {
           text: '附录', collapsed: false, items: [
             { text: 'A · 环境变量表', link: '/guide/附录A-环境变量表' },
