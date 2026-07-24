@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'zh-CN',
   lastUpdated: true,
   cleanUrls: true,
+  base: '/new-api-book/',
   srcExclude: ['research/**'],
   ignoreDeadLinks: true,
   head: [['meta', { name: 'theme-color', content: '#3c8772' }]],
